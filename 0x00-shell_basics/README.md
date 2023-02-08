@@ -10,3 +10,4 @@ And hidden files (starting with .)
 Task 6 - Create a script that creates a directory named my first directory in the /tmp/ directory.
 Task 7 - Move the file betty from /tmp/ to /tmp/my first directory
 Task 8 - Bye bye Betty
+Task 9 - Bye bye My first directory
