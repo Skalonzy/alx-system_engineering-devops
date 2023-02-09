@@ -10,4 +10,5 @@ Task 8 - Write a script that sets the permission to the file hello as follows:
 Owner: no permission at all
 Group: no permission at all
 Other users: all the permissions
-Task 9 - Write a script that sets the mode of the file hello to this 
+Task 9 - Write a script that sets the mode of the file hello to this
+Task 10 - Write a script that sets the mode of the file hello the same as olleh’s mode 
