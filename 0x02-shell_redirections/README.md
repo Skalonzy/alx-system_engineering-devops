@@ -16,3 +16,4 @@ Task 12 - Create a script that displays the 10 newest files in the current direc
 Requirements:
 One file per line
 Sorted from the newest to the oldest
+Task 13 - Create a script that takes a list of words as input and prints only words that appear exactly once.
